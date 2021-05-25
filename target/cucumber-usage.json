@@ -1,0 +1,74 @@
+[
+  {
+    "source": "^Open chromebrowser and launch application$",
+    "steps": [
+      {
+        "name": "Open chromebrowser and launch application",
+        "aggregatedDurations": {
+          "average": 34.275319104,
+          "median": 34.275319104
+        },
+        "durations": [
+          {
+            "duration": 34.275319104,
+            "location": "Features/Pageobject.feature:3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Desired Page title OrangeHRM$",
+    "steps": [
+      {
+        "name": "Desired Page title OrangeHRM",
+        "aggregatedDurations": {
+          "average": 0.0070904,
+          "median": 0.0070904
+        },
+        "durations": [
+          {
+            "duration": 0.0070904,
+            "location": "Features/Pageobject.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Browser tear down$",
+    "steps": [
+      {
+        "name": "Browser tear down",
+        "aggregatedDurations": {
+          "average": 0.518656682,
+          "median": 0.518656682
+        },
+        "durations": [
+          {
+            "duration": 0.518656682,
+            "location": "Features/Pageobject.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I enter correct \"([^\"]*)\" and correct \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "I enter correct \"username\" and correct \"password\"",
+        "aggregatedDurations": {
+          "average": 24.697004062,
+          "median": 24.697004062
+        },
+        "durations": [
+          {
+            "duration": 24.697004062,
+            "location": "Features/Pageobject.feature:4"
+          }
+        ]
+      }
+    ]
+  }
+]
